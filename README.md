@@ -4,6 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-green)]()
 [![License](https://img.shields.io/badge/许可证-MIT-brightgreen)](LICENSE)
 
+**最新版本下载** → [开源通用版 v14.2 exe](https://github.com/ice789ice/sql-detail-generator/releases/tag/v14.2)
+
 **一键将报表 Excel 中 `1#sqlValue(...)` 自动转换为可执行的明细查询 SQL**
 
 专治：
